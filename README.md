@@ -4,16 +4,9 @@
 
 
 
-
 ## Figma Prototype
-![Prototype Image]("C:\Users\Admin\Downloads\Dashboard.zip")
+![Prototype Image](https://github.com/Mukilanbalakrishnan/Project-1-CoderOne/blob/main/MacBook%20Pro%2016_%20-%201.png)
 
-
-
-
-
-
-"C:\Users\Admin\Downloads\Dashboard\MacBook Pro 16_ - 1.png"
 
 
 
